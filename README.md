@@ -1,4 +1,4 @@
-# Hai  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Athif Ahamed
+# Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Athif Ahamed
 
 <!-- HEAD GIF -->
 <div id="header" align="center">
@@ -19,11 +19,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=athifahamedj&style=flat-square&color=blue" alt=""/>
 
-<!--  hey there ANIMATED -->
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 <!-- PROFILE VIEWS COUNTER -->
 
