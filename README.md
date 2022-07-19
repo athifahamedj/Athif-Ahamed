@@ -21,12 +21,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/x.gif" width="100"/>
 </div>
 
-<!-- PROFILE VIEWS COUNTER -->
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### 👨‍💻: About Me :
@@ -42,6 +36,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
+
+<!-- image -->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
