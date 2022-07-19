@@ -82,7 +82,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://github.com/athifahamedj/Athif-Ahamed/edit/main/README.md)
+- [Test Post](https://github.com/athifahamedj/Athif-Ahamed)
 <!-- BLOG-POST-LIST:END -->
 
 
