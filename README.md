@@ -4,8 +4,8 @@
 
 <!-- URLS LIST -->
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="www.linkedin.com/in/athif-ahamed-519ab1183">
+    <img src="" alt="LinkedIn Badge"/> 
   </a>
   <a href="your-insta-URL">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -18,7 +18,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/x.gif" width="100"/>
 </div>
-
+<!-- https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white -->
 ---
 
 ### 👨‍💻: About Me :
@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I read books and solves puzzles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIN-blue?style=flat&logo=Linkedin&logoColor=white)]www.linkedin.com/in/athif-ahamed-519ab1183
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIN-blue?style=flat&logo=Linkedin&logoColor=white)]: www.linkedin.com/in/athif-ahamed-519ab1183
 
 ---
 
