@@ -5,7 +5,7 @@
 <!-- URLS LIST -->
 <div id="badges">
   <a href="www.linkedin.com/in/athif-ahamed-519ab1183">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white " alt="LinkedIn Badge"/> 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
   </a>
   <a href="your-insta-URL">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
