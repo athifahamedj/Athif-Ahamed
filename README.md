@@ -1,4 +1,4 @@
-# Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Athif Ahamed
+# Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br> I'm Athif Ahamed
 
 <!-- HEAD GIF -->
 <div id="header" align="center">
