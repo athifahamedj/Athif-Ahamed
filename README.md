@@ -60,12 +60,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>&nbsp;
+&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="Codeigniter" alt="Codeigniter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="Filezilla"  alt="Filezilla" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
- 
+ </div>
 
 ---
 
