@@ -1,10 +1,6 @@
 # Athif Ahamed  <br>
 Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<!-- HEAD GIF -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <!-- URLS LIST -->
 <div id="badges">
@@ -20,7 +16,10 @@ Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 </div>
 <img src="https://komarev.com/ghpvc/?username=athifahamedj&style=flat-square&color=blue" alt=""/>
 
-
+<!-- HEAD GIF -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!-- PROFILE VIEWS COUNTER -->
 
