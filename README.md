@@ -1,7 +1,7 @@
 # Hey!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <i> I'm Athif Ahamed </i>  <br>
 <h3> </h3> 
 
-<a href="http://athif-developer.netlify.app/" rel="nofollow">My Portfolio</a>
+<a href="http://athif-developer.netlify.app/" rel="nofollow" target=”_blank”>My Portfolio</a>
 
 
 <!-- URLS LIST -->
