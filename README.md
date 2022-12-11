@@ -95,12 +95,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=athifahamedj&show_icons=true&theme=radical"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=athifahamedj&layout=compact"/>
+</div>
+
+
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=athifahamedj)](https://git.io/streak-stats) -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=athifahamedj&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=athifahamedj&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athifahamedj)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athifahamedj&layout=compact&theme=vision-friendly-dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athifahamedj&layout=compact&theme=vision-friendly-dark)]() -->
 
 ---
 
